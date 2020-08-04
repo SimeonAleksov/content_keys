@@ -19,4 +19,4 @@ def .....():
     return version_key.hexdigest()
     
 # aa202acd61cb0cb6ec1d6cf876923399
-![Image of Yaktocat](https://i.imgur.com/ZoDLpAg.png)
+[Example](https://i.imgur.com/ZoDLpAg.png)
