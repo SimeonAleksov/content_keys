@@ -20,4 +20,5 @@ def .....():
     
 # aa202acd61cb0cb6ec1d6cf876923399
 ```
+## f-strings will work only on python3.6+, if you have other versions use .format()
 ![Example](https://raw.githubusercontent.com/SimeonAleksov/content_keys/master/ZoDLpAg.png)
